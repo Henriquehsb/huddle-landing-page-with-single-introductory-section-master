@@ -20,20 +20,21 @@ main{
 }
 
 main img{
-    width: 800px;
+    height: 650px;
+    width: 900px;
     margin: 100px 50px 0px 90px;
    
 }
 
 .container-conteudo{
-    width: 500px;
+    width: 650px;
     color: white;
     text-align: start;   
 }
 
 .container-conteudo h1{
     font-family: 'Poppins', sans-serif;
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 600;
     padding: 150px 0px 20px 0px;
     line-height: 60px;
@@ -41,13 +42,22 @@ main img{
 
 .container-conteudo p {
     font-family: 'Open Sans', sans-serif;
-    font-size: 17px;
+    font-size: 21px;
     font-weight: 400;
-    line-height: 25px;
+    line-height: 30px;
+    opacity: 0.8;
    
     
 }
 
+main button {
+    font-size: 18px;
+    border-radius: 50px;
+    border: none;
+    padding: 17px 60px 17px 60px;
+    margin-top: 25px;
+    box-shadow: 9px 6px 9px -5px rgba(0,0,0,0.53);
+}
 
 
 
